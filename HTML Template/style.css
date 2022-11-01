@@ -121,4 +121,8 @@ button, button:focus {
   background-color: white;
 }
 
+.card-img-top{
+  height: 10rem ;
+}
+
 /*# sourceMappingURL=style.css.map */
